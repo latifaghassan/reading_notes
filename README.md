@@ -6,5 +6,6 @@ I will start by introducing myself. My name is Latifa. i'm 23 years old. I'm hal
 | ---------- | --------------------------------------------------------------------------------- |
 | read01     | [class 1](read01.md) |
 | read02a    | [class 2](read02a.md) |
-| read02b    | [class 3](read02b.md) |
+| read02b    | [class 2](read02b.md) |
+| read03    | [class 3](read03.md) |
 
