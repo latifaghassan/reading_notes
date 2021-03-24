@@ -4,6 +4,6 @@ I will start by introducing myself. My name is Latifa. i'm 23 years old. I'm hal
 
 | Assigments | Links                                                                             |
 | ---------- | --------------------------------------------------------------------------------- |
-| read01     | [Link](https://canvas.instructure.com/courses/2648910/discussion_topics/10944688) |
-| read02a    | [Link](https://canvas.instructure.com/courses/2648910/discussion_topics/10944689) |
-| read02b    | [Link](https://canvas.instructure.com/courses/2648910/discussion_topics/10944687) |
+| read01     | [Link](read01) |
+| read02a    | [Link](read02a) |
+| read02b    | [Link](read0b) |
