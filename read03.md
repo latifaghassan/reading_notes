@@ -1,7 +1,7 @@
 
-when you are proccessing or designing your page, certain steps should be followed. first, you shoulf ensure that your pages attract the visitors and that it include what they need or fullfil what they are expect to see, second, you have to organize your information in a simple and understanble way, third, design theory for presenting information that will help them achieve their goals. Finally, you can write some tips for you about how to improve your page and make it more attractive. 
+When you are proccessing or designing your page, certain steps should be followed. first, you should ensure that your pages attract the visitors and that it include what they need or fullfil what they  expect to see. Second, you have to organize your information in a simple and understanble way. Third, design theory for presenting information that will help them achieve their goals. Finally, you can write some tips for you about how to improve your page and make it more attractive. 
 
-HTML5  layout elements define the structure of the page, and they are playing a big role in creating layouts., HTML5 layout elements as the header which you can add a logo or primary navigation, then there is the main, where you can add an image or an article or a link. Finally, the footer, you can the copy right or contact info
+HTML5  layout elements define the structure of the page, and they are playing a big role in creating layouts., HTML5 layout elements as the header which you can add a logo or primary navigation, then there is the main, where you can add an image or an article or a link. Finally, the footer, you can the copy right or contact info.
 
 Older browsers that do not know the new HTML5 elements will automatically treat them as inline elements. Therefore, to help older browsers, you should include the line of CSS on the left which states which new elements should be rendered as block-level elements.
 
