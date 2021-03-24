@@ -7,7 +7,7 @@ Older browsers that do not know the new HTML5 elements will automatically treat 
 
 There's different version of HTML, such as: HTML 4 , XHTML 1.0 , and HTML5. Because there have been several versions of HTML, each web page should begin with a DOCTYPE declaration to tell a browser which version of HTML the page is using
 
-If you want to add a comment to your code that will not be visible in the user's browser, you can add the text between these characters: ( <!-- comment goes here --> )
+If you want to add a comment to your code that will not be visible in the user's browser, you can add the text between these characters: ( < !-- comment goes here --> )
 
 Every HTML element can also carry a class attribute. To do this you can use the class attribute. Its value should describe the class it belongs to.
 
