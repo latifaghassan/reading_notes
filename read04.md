@@ -33,7 +33,6 @@ Expressions are evaluate into a single value.
 - "/" divide 
 - "**" power  
 - "% " modulas
----------------------------------------------------------------------------------------------------------------------------
 
 **String:**  any text or set of character. 
  "" , '' are symbols of string.
