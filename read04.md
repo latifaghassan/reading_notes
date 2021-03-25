@@ -39,10 +39,9 @@ Expressions are evaluate into a single value.
  "" , '' are symbols of string.
 
 **String operator** : the "+" symbol , it is used to join the strings on either side of it. 
----------------------------------------------------------------------------------------------------------------------------
+
 **FUNCTIONS :**
 
 **What is functions and how to create it ?**
 
 Functions let you group a series of statements together to perform a specific task. To create a function, you give it a name and then write the statements needed to achieve ira tasks inside the curly braces. This is known as a function declration. Then you can execute all of the statements between its curly braces with just one line of code. This is known as calling the function. when you declare the function you give it parameters inside the function, they act like variables. then you specify the values it should use in the parentheses that follow its name. The values are called arguments. Some function return information to the code that called them. For example, when they perform a calculation, they return the result. 
----------------------------------------------------------------------------------------------------------------------------
