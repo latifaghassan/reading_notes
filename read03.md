@@ -24,11 +24,9 @@ If you want to add a comment to your code that will not be visible in the user's
 Every HTML element can also carry a class attribute. To do this you can use the class attribute. Its value should describe the class it belongs to.
 <br>
 **Examples of block elements are:** 
-("<h1>","<p>","<ul>","<li>").
-<br>
-**Examples of inline elements are:** ("<a>","<b>","<em>","<img>").
-<br>
-An iframe is created using the (< iframe >) element.
-<br>
+(< h1 >,< p >,< ul >,< li >).<br>
+**Examples of inline elements are:** 
+(< a >,< b >,< em >,< img >) <br>
+An iframe is created using the (< iframe >) element.<br>
 The (< div >)  element allows you to group a set of elements together in one block-level box. 
 
