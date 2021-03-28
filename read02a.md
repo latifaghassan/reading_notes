@@ -1,7 +1,8 @@
+# Learning Markdown Summary 
 
-Markdown is a way to style text on the web. it allowed you to control the display of the document; formatting words as bold or italic, adding images, and creating lists. it makes it easier to work with content on GitHub.com with using  using a non-alphabetic characters. 
+**Markdown** is a way to style text on the web. it allowed you to control the display of the document; formatting words as bold or italic, adding images, and creating lists. it makes it easier to work with content on GitHub.com with using  using a non-alphabetic characters. 
 
-GitHub Pages is the perfect source for the developers which give them more possibilities , it helps to make, organize and share your projects with the world , also you can find a job thorough it, it contain templets and drafts which give you more control of the presentation of your site. you can create your site through setting/ Launch automatic page generator, after you finish publish you site.  if you want to create a repository go to GitHub site and create a new public repository named username.github.io, and username is your actual name or a organization name.  Set what git client are you using, and the website will show you the steps through each one. 
+**GitHub Pages** is the perfect source for the developers which give them more possibilities , it helps to make, organize and share your projects with the world , also you can find a job thorough it, it contain templets and drafts which give you more control of the presentation of your site. you can create your site through setting/ Launch automatic page generator, after you finish publish you site.  if you want to create a repository go to GitHub site and create a new public repository named username.github.io, and username is your actual name or a organization name.  Set what git client are you using, and the website will show you the steps through each one. 
 
 you can create sophisticated formatting for your prose and code on GitHub with some simple syntax : 
                                                                                               
@@ -26,7 +27,7 @@ For quotes
    |                                                                                             
  :EMOJICODE: -  add emoji 
 
-even more:
+**even more:**
 
  you can create a task list, preface list items with a regular space character followed by [ ] .
  You can create a new paragraph by leaving a blank line between lines of text.
