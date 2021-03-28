@@ -1,8 +1,8 @@
 # Structure Web Pages With HTML Summary
 
-**When you are proccessing or designing your page, certain steps should be followed.** 
+**When you are  processing or designing your page, certain steps should be followed.** 
 
-- you should ensure that your pages attract the visitors and that it include what they need or fullfil what they  expect to see. 
+- you should ensure that your pages attract the visitors and that it include what they need or  fulfill what they  expect to see. 
 - you have to organize your information in a simple and understanble way. 
 - design theory for presenting information that will help them achieve their goals. 
 - write some tips for you about how to improve your page and make it more attractive. 
@@ -26,10 +26,9 @@ Every HTML element can also carry a class attribute. To do this you can use the 
 **Examples of block elements are:** 
 (<h1>,<p>, <ul>,<li>).
 <br>
-Examples of inline elements are
-(<a>,<b>,<em>,<img>).
+**Examples of inline elements are:**(<a>,<b>,<em>,<img>).
 <br>
-An iframe is created using the (<iframe>) element.
+An iframe is created using the (< iframe >) element.
 <br>
-The (<div>)  element allows you to group a set of elements together in one block-level box. 
+The (< div >)  element allows you to group a set of elements together in one block-level box. 
 
