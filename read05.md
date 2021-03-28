@@ -2,31 +2,31 @@
 
 **Comparison operators evaluating conditions :** 
 
-= = **"is equal to"**
+"==" **"is equal to"** <br> 
 to compare between two values (numbers, strings, or Booleans) to see if they are the same.
 
-! = **"is not equal to"**
+"!=" **"is not equal to"** <br>
 to compare between two values (numbers, strings, or Booleans) to see if they are not the same.
 
-=== **"strict equal to"** 
+"===" **"strict equal to"** <br>
 to compare between two value to check that both the data type and value are the same. 
 
-!== **"strict not equal to"**
+"!==" **"strict not equal to"** <br>
 to compare two values to check that both the data type and value are not the same. 
 
->= **"greater than or equal to"** 
+">=" **"greater than or equal to"** <br>
 to check if the number on the left is greater than or equal to the number on the right. 
 
-<= **"less than or equal"** 
+"<=" **"less than or equal"** <br>
 to check if the number on the lefts is less than or equal to the number on the right. 
 
 -------------------------------------------------------------------------------------------------------------------------
 
 **Logical operators :** 
 
-&& "logical and"
-|| "logical or"
-! "logical not" 
+&& **"logical and"** <br>
+|| **"logical or"** <br>
+! **"logical not"** <br>
 
 -------------------------------------------------------------------------------------------------------------------------
 **Loop counters :** 
