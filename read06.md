@@ -18,4 +18,6 @@ Its syntax should be something like that : <br>
 
 **Linking to a specific part of another page:** <br>
 
+Its syntax should be something like that.<br>
+
 < a href+"link#bottom">
