@@ -4,19 +4,19 @@ I will start by introducing myself. My name is Latifa. i'm 23 years old. I'm hal
 
 <h2> Code 102 Reading Notes: </h2>
 
-| Assigments | Links                                                                             |
+| The Topics | Links                                                                             |
 | ---------- | --------------------------------------------------------------------------------- |
-| read01     | [class 1](102/read01.md)  |
-| read02a    | [class 2](102/read02a.md) |
-| read02b    | [class 2](102/read02b.md) |
-| read03     | [class 3](102/read03.md)  |
-| read04     | [class 4](102/read04.md)  |
-| read05     | [class 5](102/read05.md)  |
-| read06     | [class 6](102/read06.md)  |
+| The Coder's Computer           | [class 1](102/read01.md)  |
+| Learning Markdown	             | [class 2](102/read02a.md) |
+| Revisions and the Cloud        | [class 2](102/read02b.md) |
+| Structure web pages with HTML  | [class 3](102/read03.md)  |
+| Programming with JavaScript	 | [class 4](102/read04.md)  |
+| Operators and Loops	         | [class 5](102/read05.md)  |
+| Design web pages with CSS	     | [class 6](102/read06.md)  |
 
 <h2> Code 201 Reading Notes: </h2>
 
-| Assigments | Links                                                                             |
+| The Topics | Links                                                                             |
 | ---------- | --------------------------------------------------------------------------------- |
 | class01    | [class 1](201/class01.md) |
 | read02     | [class 2](201/read02.md)  |
