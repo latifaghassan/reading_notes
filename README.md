@@ -18,7 +18,7 @@ I will start by introducing myself. My name is Latifa. i'm 23 years old. I'm hal
 
 | Assigments | Links                                                                             |
 | ---------- | --------------------------------------------------------------------------------- |
-| read01     | [class 1](201/read01.md)  |
+| class01    | [class 1](201/class01.md) |
 | read02     | [class 2](201/read02.md)  |
 | read03     | [class 3](201/read03.md)  |
 | read04     | [class 4](201/read04.md)  |
