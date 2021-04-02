@@ -94,21 +94,21 @@ Escape characters are used to include special characters in your pages such as <
 
 The new HTML5 elements indicate the purpose of different parts of a web page and help to describe its structure. <br> 
 
-the < header> element used to contain the site name and the main navigation. <br>  
+the **< header>** element used to contain the site name and the main navigation. <br>  
 
-The < footer> element contains copyright information, along with links to the privacy policy and terms and conditions. <br> 
+The **< footer>** element contains copyright information, along with links to the privacy policy and terms and conditions. <br> 
 
-The < article> element acts as a container for any section of a page that could stand alone and potentially be syndicated. <br> 
+The **< article>** element acts as a container for any section of a page that could stand alone and potentially be syndicated. <br> 
 
-The < aside> element has two purposes, depending on whether it is inside an < article> element or not. When the < aside> elements used inside an < article> element, it should contain information that is related to the article. When the < aside> element is used outside of an < article> element, it acts as a container for content that is related to the entire page. <br> 
+The **< aside>** element has two purposes, depending on whether it is inside an < article> element or not. When the < aside> elements used inside an < article> element, it should contain information that is related to the article. When the < aside> element is used outside of an < article> element, it acts as a container for content that is related to the entire page. <br> 
 
-The < section> element groups related content together, and typically each section would have its own heading. it may contain several distinct < article> elements that have a common theme or purpose. <br> 
+The **< section>** element groups related content together, and typically each section would have its own heading. it may contain several distinct < article> elements that have a common theme or purpose. <br> 
 
-The purpose of the < hgroup> element is to group together a set of one or more < h1> through < h6> elements so that they are treated as one single heading. <br> 
+The purpose of the **< hgroup>** element is to group together a set of one or more < h1> through < h6> elements so that they are treated as one single heading. <br> 
 
-the < figure> It can be used to contain any content that is referenced from the main flow of an article. Examples of usage include: Images/ Videos /Graphs / Diagrams / Code samples. The < figure> element should also contain a < figcaption> element which provides a text decription for the content of the < figure> element. <br> 
+the **< figure>** It can be used to contain any content that is referenced from the main flow of an article. Examples of usage include: Images/ Videos /Graphs / Diagrams / Code samples. The < figure> element should also contain a < figcaption> element which provides a text decription for the content of the < figure> element. <br> 
 
-the < div> element will remain an important way to group together related elements, because you should not be using these new elements that you have just met for purposes other than those explicitly stated. <br> 
+the **< div>** element will remain an important way to group together related elements, because you should not be using these new elements that you have just met for purposes other than those explicitly stated. <br> 
 
 Older browsers that do not understand HTML5 elements need to be told which elements are block-level elements. <br> 
 
