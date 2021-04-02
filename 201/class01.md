@@ -1,188 +1,177 @@
 <h1> Introductory HTML and JavaScript summary: </h1>
 
-<div>
-**Structure:** 
+**Structure:**<br> 
 
-We use structure when we writing web pages.
+We use structure when we writing web pages.<br> 
 
-To describe the structure of a web page, we add code to the words we want to appear on the page.
+To describe the structure of a web page, we add code to the words we want to appear on the page.<br> 
 
-The HTML code is made up of characters that live inside angled brackets — these are called HTML elements. 
+The HTML code is made up of characters that live inside angled brackets — these are called HTML elements.<br> 
 
-Elements are usually made up of two tags: an opening tag and a closing tag. 
+Elements are usually made up of two tags: an opening tag and a closing tag.<br>  
 
-**Tags :**
+**Tags :** <br> 
 
-Tags are often referred to as elements.
+Tags are often referred to as elements.<br> 
 
-Tags usually come in pairs. 
+Tags usually come in pairs.<br> 
 
-The opening tag denotes the start of a piece of content; the closing tag denotes the end.
+The opening tag denotes the start of a piece of content; the closing tag denotes the end.<br> 
 
-Opening tags can carry attributes, which tell us more about the content of that element.
+Opening tags can carry attributes, which tell us more about the content of that element.<br> 
 
-Attributes require a name and a value.
+Attributes require a name and a value.<br> 
 
-The page contains a “head, title, body”. 
+The page contains a “head, title, body”.<br>  
 
-**HTML :** 
+**HTML :** <br> 
 
-HTML stands for HyperText Markup Language. 
+HTML stands for HyperText Markup Language. <br> 
 
-To learn HTML you need to know what tags are available for you to use, what they do, and where they can go.
+To learn HTML you need to know what tags are available for you to use, what they do, and where they can go. <br> 
 
-**DOCTYPE :** 
+**DOCTYPE :** <br> 
 
-It tells a browser which version of HTML the page is using 
+It tells a browser which version of HTML the page is using. <br>  
 
-**Comments in HTML :** 
+**Comments in HTML :** <br> 
 
-If you want to add a comment to your code that will not be visible in the user's browser, you can add the text between these characters:
-‏ < !-- comment goes here -->
+If you want to add a comment to your code that will not be visible in the user's browser, you can add the text between these characters: <br> 
 
-**id attribute:** 
+‏ < !-- comment goes here --><br> 
 
-It is used to uniquely identify that element from other elements on the page.
+**id attribute:** <br> 
 
-It is important that no two elements on the same page have the same value for their id attributes. 
+It is used to uniquely identify that element from other elements on the page. <br> 
 
-The id attribute is known as a global attribute because it can be used on any element.
+It is important that no two elements on the same page have the same value for their id attributes. <br> 
 
-**Class attribute :** 
+The id attribute is known as a global attribute because it can be used on any element. <br> 
 
-Is used to identify several elements as being different from the other elements on the page.
+**Class attribute :** <br> 
 
-**Block elements:** 
+Is used to identify several elements as being different from the other elements on the page. <br> 
 
-It always appear to start on a new line in the browser window.
+**Block elements:** <br> 
 
-Examples of block elements are
- < h1>, < p>, < ul>, and < li>.
+It always appear to start on a new line in the browser window. <br> 
 
-**Inline elements:** 
+Examples of block elements are <br> 
+ < h1>, < p>, < ul>, and < li>. <br> 
 
-It appear to continue on the same line as their neighbouring elements. 
+**Inline elements:** <br> 
 
-Examples of inline elements are
- < a>, < b>, < em>, and < img>.
+It appear to continue on the same line as their neighbouring elements. <br> 
 
-**Grouping text & elements in a block:**
+Examples of inline elements are <br> 
+ < a>, < b>, < em>, and < img>. <br> 
 
-**< div>**
-The < div> element allows you to group a set of elements together in one block-level box.
+**Grouping text & elements in a block:** <br> 
 
-**Grouping text & elements inline:**
+**< div>** <br> 
 
-The < span> element, which is an inline element. It paragraph correctly renders as a single, unbroken text flow.
+The < div> element allows you to group a set of elements together in one block-level box. <br> 
 
-**< iframe>**
-An iframe is like a little window that has been cut into your page, and in that window you can see another page. The term iframe is an abbreviation of inline frame.
+**Grouping text & elements inline:** <br> 
 
-**< meta> :**
+The < span> element, which is an inline element. It paragraph correctly renders as a single, unbroken text flow. <br> 
 
-The < meta> tag allows you to supply all kinds of information about your web page. It is not visible to users but fulfills a number of purposes such as telling search engines about your page.  is an empty element so it does not have a closing tag.
+**< iframe>** <br> 
 
-**Escape Characters:** 
+An iframe is like a little window that has been cut into your page, and in that window you can see another page. The term iframe is an abbreviation of inline frame. <br> 
 
-Escape characters are used to include special characters in your pages such as <, >, and ©.
-</div>
+**< meta> :** <br> 
+
+The < meta> tag allows you to supply all kinds of information about your web page. It is not visible to users but fulfills a number of purposes such as telling search engines about your page.  is an empty element so it does not have a closing tag. <br> 
+
+**Escape Characters:** <br> 
+
+Escape characters are used to include special characters in your pages such as <, >, and ©.<br> 
+ 
 .....................................................................................................................................
 
-<div>
+**HTML5 layouts:** <br> 
 
-**HTML5 layouts:** 
+The new HTML5 elements indicate the purpose of different parts of a web page and help to describe its structure. <br> 
 
-The new HTML5 elements indicate the purpose of different parts of a web page and help to describe its structure.
+the < header> element used to contain the site name and the main navigation. <br>  
 
-the < header> element used to contain the site name and the main navigation. 
+The < footer> element contains copyright information, along with links to the privacy policy and terms and conditions. <br> 
 
-The < footer> element contains copyright information, along with links to the privacy policy and terms and conditions.
+The < article> element acts as a container for any section of a page that could stand alone and potentially be syndicated. <br> 
 
-The < article> element acts as a container for any section of a page that could stand alone and potentially be syndicated.
+The < aside> element has two purposes, depending on whether it is inside an < article> element or not. When the < aside> elements used inside an < article> element, it should contain information that is related to the article. When the < aside> element is used outside of an < article> element, it acts as a container for content that is related to the entire page. <br> 
 
-The < aside> element has two purposes, depending on whether it is inside an < article> element or not. When the < aside> elements used inside an < article> element, it should contain information that is related to the article. When the < aside> element is used outside of an < article> element, it acts as a container for content that is related to the entire page. 
+The < section> element groups related content together, and typically each section would have its own heading. it may contain several distinct < article> elements that have a common theme or purpose. <br> 
 
-The < section> element groups related content together, and typically each section would have its own heading. it may contain several distinct < article> elements that have a common theme or purpose.
+The purpose of the < hgroup> element is to group together a set of one or more < h1> through < h6> elements so that they are treated as one single heading. <br> 
 
-The purpose of the < hgroup> element is to group together a set of one or more < h1> through < h6> elements so that they are treated as one single heading.
+the < figure> It can be used to contain any content that is referenced from the main flow of an article. Examples of usage include: Images/ Videos /Graphs / Diagrams / Code samples. The < figure> element should also contain a < figcaption> element which provides a text decription for the content of the < figure> element. <br> 
 
-the < figure> It can be used to contain any content that is referenced from the main flow of an article. Examples of usage include: Images/ Videos /Graphs / Diagrams / Code samples. 
-The < figure> element should also contain a < figcaption> element which provides a text decription for the content of the < figure> element.
+the < div> element will remain an important way to group together related elements, because you should not be using these new elements that you have just met for purposes other than those explicitly stated. <br> 
 
-the < div> element will remain an important way to group together related elements, because you should not be using these new elements that you have just met for purposes other than those explicitly stated.
-
-Older browsers that do not understand HTML5 elements need to be told which elements are block-level elements.
-
-</div>
+Older browsers that do not understand HTML5 elements need to be told which elements are block-level elements. <br> 
 
 .....................................................................................................................................
 
-<div>
+**Process & Design:** <br> 
 
-**Process & Design:** 
+**When you are creating a new website;  three questions should be answered;** <br>  
 
-**When you are creating a new website;  three questions should be answered;** 
+1- Who is the site For? <br> 
+2- Why people visit your page? <br> 
+3- What your visitors are trying to achieve? <br> 
+4- What information your visitors need? <br> 
+5- How often people with visit your site? <br> 
 
-1- Who is the site For?
-2- Why people visit your page? 
-3- What your visitors are trying to achieve? 
-4- What information your visitors need? 
-5- How often people with visit your site? 
-
-**Site Maps :** 
-It allows you to plan the structure of a site.
+**Site Maps :** <br> 
+It allows you to plan the structure of a site. <br> 
  
 
-**WireFrames:** 
+**WireFrames:** <br> 
 
-It allows you to organize the information that will need to go on each page.
+It allows you to organize the information that will need to go on each page. <br> 
 
 
-**Getting your message across using Design:** 
+**Getting your message across using Design:** <br> 
 
-Design is about communication. Visual hierarchy helps visitors understand what you are trying to tell them.
+Design is about communication. Visual hierarchy helps visitors understand what you are trying to tell them. <br> 
 
-You can differentiate between pieces of information using size, color, and style.
+You can differentiate between pieces of information using size, color, and style. <br> 
 
-You can use grouping and similarity to help simplify the information you present.
-
-</div>
+You can use grouping and similarity to help simplify the information you present. <br> 
 
 .....................................................................................................................................
 
-<div>
+**The ABC of programming:** <br> 
 
-**The ABC of programming:** 
+**What is “script” and how do I create one ?** <br>  
 
-What is “script” and how do I create one ? 
+Script is a series of instructions that a computer can follow to achieve a goal. <br> 
 
-Script is a series of instructions that a computer can follow to achieve a goal.
+Each time the script runs, it might only use a subset of all the instructions. <br> 
 
-Each time the script runs, it might only use a subset of all the instructions.
+Computers approach tasks in a different way than humans, so your instructions must let the computer solve the task prggrammatically. <br> 
 
-Computers approach tasks in a different way than humans, so your instructions must let the computer solve the task prggrammatically.
+To approach writing a script, break down your goal into a series of tasks and then work out each step needed to complete that task (a flowchart can help). <br> 
 
-To approach writing a script, break down your goal into a series of tasks and then work out each step needed to complete that task (a flowchart can help).
+**HOW A BROWSER SEES A WEB PAGE ?** <br> 
+1- The browser receive an HTML page. <br> 
+2- It creates a model of the page and stores it in memory. <br> 
+3- It shows the page on screen using a rendering engine. <br> 
 
-**HOW A BROWSER SEES A WEB PAGE ?** 
-1- The browser receive an HTML page.
-2- It creates a model of the page and stores it in memory. 
-3- It shows the page on screen using a rendering engine. 
+**HOW HTML, CSS, & JAVASCRIPT FIT TOGETHER?** <br> 
 
-**HOW HTML, CSS, & JAVASCRIPT FIT TOGETHER?** 
+**HTML :** content layer. <br> 
+**CSS :** presentation layer. <br> 
+**JAVASCRIPT :** behaviour layer. <br> 
 
-**HTML :** content layer.
-**CSS :** presentation layer.
-**JAVASCRIPT :** behaviour layer.
+These three layers form the basis of a popular approach to building web pages called progressive enhancement. <br> 
 
-These three layers form the basis of a popular approach to building web pages called progressive enhancement.
+**CREATING A BASIC JAVASCRIPT:** <br> 
 
-**CREATING A BASIC JAVASCRIPT:**
+JavaScript is written in plain text, just like HTML and CSS. <br> 
 
-JavaScript is written in plain text, just like HTML and CSS
+When you want to use JavaScript with a web page, you use the HTML < script> element to tell the browser it is coming across a script. <br> 
 
-When you want to use JavaScript with a web page, you use the HTML < script> element to tell the browser it is coming across a script.
-
-It is best to keep JavaScript code in its own JavaScript file. but they have the . j s extension.
-
-</div>
+It is best to keep JavaScript code in its own JavaScript file. but they have the . j s extension. <br> 
