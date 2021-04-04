@@ -80,11 +80,8 @@ CSS declarations sit inside curly brackets and each is made up of two parts: a *
 |                     |                                                                       |
 | Type selector.      | h1,h2,h3 { } , target the < h1>, < h2> and < h3> elements.            | 
 |                     |                                                                       |
-| Class selector.     | .note { }                                                             |
-|                     | Targets any element whose class attribute has a value of note.        |
-                                                                                      
-|                     | p.note { }                                                            |
-|                     | Targets only < p> elements whose class attribute has a value of note. |
+| Class selector.     | .note { } Targets any element whose class attribute has a value of note.|
+|                     | p.note { } Targets only < p> elements whose class attribute has a value of note.|
 |                     |                                                                       |              
 | ID selector.        | #introduction { } Targets the element whose id attribute has a value of introduction.|                                                    
 |                     |                                                                       |
