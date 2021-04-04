@@ -73,7 +73,7 @@ CSS declarations sit inside curly brackets and each is made up of two parts: a *
 
 **CSS Selectors :** <br> <br>
 
------------------------------------------------------------------------------------------------              
+              
 | **Selector**        | **Example**                                                           |
 -----------------------------------------------------------------------------------------------                
 | Universal selector. | * {} target all elements on the page.                                 |
@@ -106,7 +106,7 @@ CSS declarations sit inside curly brackets and each is made up of two parts: a *
 | general Sibling     |   h1~p {}                                                             |
 |  selector.          |    If you had two < p> elements that are siblings of an < h1>         |
 |                     |    element, this rule would apply to both.                            |
------------------------------------------------------------------------------------------------                                
+                                
 <br>
 
 **Inheritance :**  <br>
@@ -160,7 +160,7 @@ They rely on operators to calculate a value. <br>
 
 **1- Artihemtic Operators :** <br>
 
-<img src= "Images/table.png"/> <br>
+<img src= "table.png"/> <br>
 
 **2- String Operator :** <br>
 
