@@ -85,25 +85,17 @@ CSS declarations sit inside curly brackets and each is made up of two parts: a *
 |                     | p.note { }                                                            |
 |                     | Targets only < p> elements whose class attribute has a value of note. |
 |                     |                                                                       |              
-| ID selector.        | #introduction { }                                                     |
-|                     | Targets the element whose id attribute has a value of introduction.   |
+| ID selector.        | #introduction { } Targets the element whose id attribute has a value of introduction.|                                                    
 |                     |                                                                       |
-| child selector.	  | Targets any < a> elements that are children of an < li>               |
-|                     |    element (but not other < a> elements                               |
-|                     |     in the page).                                                     |
 |                     |                                                                       |
-| descendant Selector.|   p a { }                                                             |
-|                     |    Targets any < a> elements that sit inside a < p> element,          |
-|                     |   even if there are other elements nested between them.               |
+| child selector.	  | Targets any < a> elements that are children of an < li> element (but not other < a> elements in the page).|
 |                     |                                                                       |
-|  adjacent Sibling   |   h1+p { }                                                            |
-|  Selector.          |   Targets the first < p> element after any < h1> element              |
-|                     |   (but not other < p> elements).                                      |
+| descendant Selector.|   p a { } Targets any < a> elements that sit inside a < p> element, even if there are other elements nested between them.|
 |                     |                                                                       |
-| general Sibling     |   h1~p { }                                                            |
-|  selector.          |    If you had two < p> elements that are siblings of an < h1>         |
-|                     |    element, this rule would apply to both.                            |
-                                
+|  adjacent Sibling Selector.|   h1+p { }  Targets the first < p> element after any < h1> element (but not other < p> elements).|
+|                            |
+| general Sibling  selector. |   h1~p { } If you had two < p> elements that are siblings of an < h1> element, this rule would apply to both.|
+         
 <br>
 
 **Inheritance :**  <br>
