@@ -198,7 +198,7 @@ It evaluates or check a condition. If it is "true", any statements in the subsqu
 **If..Else Statementss :** <br>
 It checks a condition. If it resloves to "true" , the first code block is executes. If the conditional resloves to "false", the second code block is run instead. <br>
 
----------------------------------------------------------------------------------------------------------------------------------------- <br>             
+--------------------------------------------------------------------------------------------------------------------------------------------- <br>             
 
 
 
