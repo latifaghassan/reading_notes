@@ -75,35 +75,32 @@ CSS declarations sit inside curly brackets and each is made up of two parts: a *
 
               
 | **Selector**        | **Example**                                                           |
------------------------------------------------------------------------------------------------                
-| Universal selector. | * {} target all elements on the page.                                 |
------------------------------------------------------------------------------------------------            
+----------------------|------------------------------------------------------------------------                
+| Universal selector. | * { } target all elements on the page.                                |            
 |                     |                                                                       |
-| Type selector.      | h1,h2,h3 {} , target the < h1>, < h2> and < h3> elements.             |
------------------------------------------------------------------------------------------------                                                                          
-| Class selector.     | .note {}                                                              |
+| Type selector.      | h1,h2,h3 { } , target the < h1>, < h2> and < h3> elements.            |                                                                          
+| Class selector.     | .note { }                                                             |
 |                     | Targets any element whose class attribute has a value of note.        |
 |                     |                                                                       |
-|                     | p.note {}                                                             |
+|                     | p.note { }                                                            |
 |                     | Targets only < p> elements whose class attribute has a value of note. |
+|                     |                                                                       |              
+| ID selector.        | #introduction { }                                                     |
+|                     | Targets the element whose id attribute has a value of introduction.   |
 |                     |                                                                       |
------------------------------------------------------------------------------------------------              
-| ID selector.        | #introduction {}                                                      |
-|                     |   Targets the element whose id attribute has a value of introduction. | 
------------------------------------------------------------------------------------------------             
-| child selector.	  |  Targets any < a> elements that are children of an < li>              |
+| child selector.	  | Targets any < a> elements that are children of an < li>               |
 |                     |    element (but not other < a> elements                               |
 |                     |     in the page).                                                     |
------------------------------------------------------------------------------------------------              
-| descendant Selector.|   p a {}                                                              |
+|                     |                                                                       |
+| descendant Selector.|   p a { }                                                             |
 |                     |    Targets any < a> elements that sit inside a < p> element,          |
 |                     |   even if there are other elements nested between them.               |
------------------------------------------------------------------------------------------------              
-|  adjacent Sibling   |   h1+p {}                                                             |
+|                     |                                                                       |
+|  adjacent Sibling   |   h1+p { }                                                            |
 |  Selector.          |   Targets the first < p> element after any < h1> element              |
 |                     |   (but not other < p> elements).                                      |
------------------------------------------------------------------------------------------------                                      
-| general Sibling     |   h1~p {}                                                             |
+|                     |                                                                       |
+| general Sibling     |   h1~p { }                                                            |
 |  selector.          |    If you had two < p> elements that are siblings of an < h1>         |
 |                     |    element, this rule would apply to both.                            |
                                 
