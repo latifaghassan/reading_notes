@@ -37,37 +37,37 @@ Lists can be nested inside one another. <br>
 - **padding** : it is the space between the border of a box and any content within it. <br>
 ------------------------------------------------------------------------------------------ <br> 
 **White space** : the space between items on a page. <br>
-
+------------------------------------------------------------------------------------------ <br> 
 **Border :** <br>
 
-| **properties**        | **Values**                                                           |
-----------------------|------------------------------------------------------------------------|                                                                                     
-| **Border-width**  |  - border-top-width |                                                        |
+|                     |  **properties**        | **Values**                                                           |
+----------------------|------------------------------------------------------------------------                                                                                     
+|**Border-width**|  - border-top-width |                                                        |
 |               |  - border-right-width | The value of this property can either be given in pixels or using these values ( thin, medium, thick) |                           
 |               |  - border-bottom-width |                                                     |
 |               |  - border-left-width |                                                       |                                                                            
 |               |                      |                                                       |                                                                                   
-| **Border style**  |   - border-top-style |                                                       |
+| **Border style**|   - border-top-style |                                                       |
 |               |   - border-left-style | The values can be ; ( solid, dotted, dashed, double, groove, ridge, inset, outset, hidden/none.|
 |               |   - border-right-style |                                                     |
 |               |   -border-bottom-style |                                                     |
 |               |                       |                                                       |                                                                        
-| **Border color**  |   - border-top-color |                                                       |
+| **Border color**|   - border-top-color |                                                       |
 |               |   - border-right-color | The values can be ; ( RGB values, hex codes or css color names).| 
 |               |   - border-bottom-color |                                                    |
 |               |   -border-left-color |                                                       |
 |               |                      |                                                       |                                                                                       
-| **Padding**       |   - padding-top |                                                            |
+| **Padding**|   - padding-top |                                                            |
 |               |   - padding-right | You can use pixels with those. or % |
 |               |   - padding-bottom |                                                         |
 |               |   -padding-left |                                                            |
 |               |                 |                                                            |
-| **Margin**        |   - margin-top |                                                             |
+| **Margin**|   - margin-top |                                                             |
 |               |   - margin-right | You can use pixels with those. or % |
 |               |   - margin-bottom |                                                          |
 |               |   - margin-left |                                                            |                                                
 
-<br>
+------------------------------------------------------------------------------------------ <br> 
 
 **Centering:** <br>
 If you want centering a content use <br> 
