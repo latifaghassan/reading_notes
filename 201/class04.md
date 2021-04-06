@@ -3,11 +3,11 @@
 **Links :** <br>
 It allows us to move from one page to another. <br>
  
-**Directory Structure :** <br>
+**Directory :** <br>
 Folders on a website are sometimes referred to as directories. <br>
 
 **Relative URLs :** <br>
-They can be used when linking to pages within your own website. <br>
+They can be used when linking pages within your own website. <br>
 
 **Relative Link Types Same Folder:** <br>
 To link to a file in the same folder, just use the file name. <br>
