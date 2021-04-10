@@ -23,7 +23,7 @@ I will start by introducing myself. My name is Latifa. i'm 23 years old. I'm hal
 | HTML Lists, CSS Boxes, JS Control Flow | [class 3](201/class03.md)  |
 | HTML Links, CSS Layout, JS Functions   | [class 4](201/class04.md)  |
 | HTML Images; CSS Color & Text      | [class 5](201/class05.md)  |
-| read06                             | [class 6](201/read06.md)  |
+| JS Object Literals; The DOM        | [class 6](201/class06.md)  |
 | read07                             | [class 7](201/read07.md)  |
 | read08                             | [class 8](201/read08.md)  |
 | read09                             | [class 9](201/read09.md)  |
