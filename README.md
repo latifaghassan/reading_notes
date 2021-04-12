@@ -25,7 +25,7 @@ I will start by introducing myself. My name is Latifa. i'm 23 years old. I'm hal
 | HTML Images; CSS Color & Text      | [class 5](201/class05.md)  |
 | JS Object Literals; The DOM        | [class 6](201/class06.md)  |
 | HTML Tables; JS Constructor Functions  | [class 7](201/class07.md)  |
-| read08                             | [class 8](201/read08.md)  |
+| CSS Layout                            | [class 8](201/class08.md)  |
 | read09                             | [class 9](201/read09.md)  |
 | read10                             | [class 10](201/read10.md) |  
 | read11                             | [class 11](201/read11.md) |
