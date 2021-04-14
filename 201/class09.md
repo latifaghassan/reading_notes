@@ -1,6 +1,6 @@
- # Forms and Events Summary
+ # Forms and Events Summary :
 
- ## Forms : <br>
+ ## Forms : 
 
 the term 'form' has referred to a printed document that contains spaces for you to fill in the information. For example the search box on the Google homepage. It works when a user fills in a form and then presses a button to submit the information. <br>
 
