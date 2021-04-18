@@ -28,7 +28,7 @@ I will start by introducing myself. My name is Latifa. i'm 23 years old. I'm hal
 | CSS Layout                            | [class 8](201/class08.md)  |
 | Forms and Events                   | [class 9](201/class09.md)  |
 | JS Debugging                     | [class 10](201/class10.md) |  
-| read11                             | [class 11](201/read11.md) |
+| Assorted Topics                  | [class 11](201/class11.md) |
 | read12                             | [class 12](201/read12.md) |
 | read13                             | [class 13](201/read13.md) |
 | read14                             | [class 14](201/read14.md) |
