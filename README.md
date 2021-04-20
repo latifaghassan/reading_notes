@@ -31,5 +31,5 @@ I will start by introducing myself. My name is Latifa. i'm 23 years old. I'm hal
 | Assorted Topics                  | [class 11](201/class11.md) |
 | Docs for the HTML < canvas> Element & Chart.js    | [class 12](201/class12.md) |
 |  Local Storage                     | [class 13](201/class13.md) |
-| read14                             | [class 14](201/read14.md) |
-| read15                             | [class 15](201/read15.md) |
+| CSS Transforms, Transitions, and Animations  | [class 14](201/class14.md) |
+| What Google Learned About Teams              | [class 15](201/class15.md) |
