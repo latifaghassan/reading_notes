@@ -9,6 +9,7 @@ The transform property applies a 2D or 3D transformation to an element. This pro
 - The **translate** value moves an element left/right and up/down. The movement is based on the parameters given for the X (horizontal) Y (vertical) axes.
 - With the **skew** value, the element skews (or tilts) one direction or the other based on the values given for the X and Y axes. <br>
 ----------------------------------------------------------------------------------------------------------------------- <br>
+
 ## Transitions : 
 
 A shorthand property for setting the four transition properties into a single property.  <br>
@@ -18,6 +19,7 @@ A shorthand property for setting the four transition properties into a
 - **Transition-property**: Specifies the name of the CSS property the transition effect is for.
 - **Transition-timing function**: Specifies the speed curve of the transition effect. <br>
 ----------------------------------------------------------------------------------------------------------------------- <br>
+
 ## Animations : 
 
 To use CSS animation, you must first specify some keyframes for the animation. <br>
