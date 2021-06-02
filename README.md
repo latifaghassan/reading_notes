@@ -1,12 +1,18 @@
+
 # WELCOME !
+
+**Reminder :**
+
+![Cover](https://i.pinimg.com/originals/8c/31/a8/8c31a81ea65083f25ec84bac008c2237.jpg)
+
 
 I will start by introducing myself. My name is Latifa. i'm 23 years old. I'm half Jordanian and half Filipino. I've bachelor degree in English Literature. Currently i'm trying a new trip into softwaring development, and it seems to be my new path of spending time. I hope to learn more and improve my skills and find my strength points.
 
-Here you can find all the topics I have read about in each course : 
+**Here you can find all the topics I have read in each course :** 
 
-<h2> Code 102 Reading Notes: </h2>
+## Code 102 Test drive a career in tech:
 
-| The Topics | Links                                                                             |
+| **The Topics** | **Links**                                                                             |
 | ---------- | --------------------------------------------------------------------------------- |
 | The Coder's Computer           | [class 1](102/read01.md)  |
 | Learning Markdown	             | [class 2](102/read02a.md) |
@@ -16,7 +22,7 @@ Here you can find all the topics I have read about in each course :
 | Operators and Loops	         | [class 5](102/read05.md)  |
 | Design web pages with CSS	     | [class 6](102/read06.md)  |
 
-<h2> Code 201 Reading Notes: </h2>
+## Code 201 : Learn HTML, CSS & JavaScript: 
 
 | The Topics | Links                                                                             |
 | ---------- | --------------------------------------------------------------------------------- |
@@ -36,7 +42,7 @@ Here you can find all the topics I have read about in each course :
 | CSS Transforms, Transitions, and Animations  | [class 14](201/class14.md) |
 | What Google Learned About Teams              | [class 15](201/class15.md) |
 
-<h2> Code 301 Reading Notes: </h2>
+## Code 301 : Build Interactive Web Apps:
 
 | The Topics | Links                                                                             |
 | ---------- | --------------------------------------------------------------------------------- |
