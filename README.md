@@ -6,8 +6,6 @@
 ![Cover](https://i.pinimg.com/originals/8c/31/a8/8c31a81ea65083f25ec84bac008c2237.jpg)
 
 
-I will start by introducing myself. My name is Latifa. i'm 23 years old. I'm half Jordanian and half Filipino. I've bachelor degree in English Literature. Currently i'm trying a new trip into softwaring development, and it seems to be my new path of spending time. I hope to learn more and improve my skills and find my strength points.
-
 **Here you can find all the topics I have read in each course :** 
 
 ## Code 102 Test drive a career in tech:
