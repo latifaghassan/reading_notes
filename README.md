@@ -59,3 +59,5 @@
 | Class 13   | [class 13](301/class13.md) |
 | Class 14   | [class 14](301/class14.md) |
 | Class 15   | [class 15](301/class15.md) |
+
+[My Notes ](https://github.com/latifaghassan/reading_notes/blob/d2304161a59ac5303496daf030d40bd7f4e9af80/My%20Notes)
