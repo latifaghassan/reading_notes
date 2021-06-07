@@ -40,22 +40,22 @@
 
 ## Code 301 : Build Interactive Web Apps:
 
-| The Topics         | Links                      |
-| ------------------ | -------------------------- |
-| Components & Props | [class 1](301/class01.md)  |
+| The Topics                        | Links                      |
+| --------------------------------- | -------------------------- |
+| Components & Props                | [class 1](301/class01.md)  |
 | React lifecycle & State and Props | [class 2](301/class02.md)  |
-| Class 3            | [class 3](301/class03.md)  |
-| Class 4            | [class 4](301/class04.md)  |
-| Class 5            | [class 5](301/class05.md)  |
-| Class 6            | [class 6](301/class06.md)  |
-| Class 7            | [class 7](301/class07.md)  |
-| Class 8            | [class 8](301/class08.md)  |
-| Class 9            | [class 9](301/class09.md)  |
-| Class 10           | [class 10](301/class10.md) |
-| Class 11           | [class 11](301/class11.md) |
-| Class 12           | [class 12](301/class12.md) |
-| Class 13           | [class 13](301/class13.md) |
-| Class 14           | [class 14](301/class14.md) |
-| Class 15           | [class 15](301/class15.md) |
+| Class 3                           | [class 3](301/class03.md)  |
+| Class 4                           | [class 4](301/class04.md)  |
+| Class 5                           | [class 5](301/class05.md)  |
+| Class 6                           | [class 6](301/class06.md)  |
+| Class 7                           | [class 7](301/class07.md)  |
+| Class 8                           | [class 8](301/class08.md)  |
+| Class 9                           | [class 9](301/class09.md)  |
+| Class 10                          | [class 10](301/class10.md) |
+| Class 11                          | [class 11](301/class11.md) |
+| Class 12                          | [class 12](301/class12.md) |
+| Class 13                          | [class 13](301/class13.md) |
+| Class 14                          | [class 14](301/class14.md) |
+| Class 15                          | [class 15](301/class15.md) |
 
-[My Notes ](https://github.com/latifaghassan/reading_notes/blob/d2304161a59ac5303496daf030d40bd7f4e9af80/My%20Notes)
+[My Notes ](myNotes.md)
