@@ -43,7 +43,7 @@
 | The Topics         | Links                      |
 | ------------------ | -------------------------- |
 | Components & Props | [class 1](301/class01.md)  |
-| Class 2            | [class 2](301/class02.md)  |
+| React lifecycle & State and Props | [class 2](301/class02.md)  |
 | Class 3            | [class 3](301/class03.md)  |
 | Class 4            | [class 4](301/class04.md)  |
 | Class 5            | [class 5](301/class05.md)  |
