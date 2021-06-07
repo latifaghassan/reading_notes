@@ -4,7 +4,7 @@
 
 - Components let you split the UI into independent, reusable pieces, and think about each piece in isolation.
 
-## Components frameworks :
+## Components frameworks:
 
 - such as COM/DCOM, JavaBean, EJB, CORBA, .NET, web services, and grid services.
 
@@ -18,11 +18,11 @@
 - High-quality consistency.
 - Increased reliability with the reuse of the existing components.
 
-## Views of a Component :
+## Views of a Component:
 
 A component can have three different views − object-oriented view, conventional view, and process-related view.
 
-## Characteristics of Components :
+## Characteristics of Components:
 
 - Reusability.
 - Replaceable.
@@ -37,7 +37,7 @@ A component-level design can be represented by using some intermediary represent
 
 # PROPS
 
-## What is props short for ?
+## What is props short for?
 
 - It s a special keyword in React, which stands for properties.
 
