@@ -9,7 +9,8 @@
 ### If I want to loop through an array and display each value in JSX, how do I do that in React?
 
 - using curly braces {}
-  Each list item needs a unique **key**.
+
+### Each list item needs a unique **key**.
 
 ### What is the purpose of a key?
 
