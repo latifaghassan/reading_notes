@@ -56,7 +56,7 @@ let obj2 = { age : 20 };
 
 let spObj = {...obj1, ...obj2};
 
-## console.log(spObj); // output : [ name : 'ahmad' age : 20]
+console.log(spObj); // output : [ name : 'ahmad' age : 20]
 
 ## pass functions between components
 
