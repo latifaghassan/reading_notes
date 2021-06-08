@@ -34,7 +34,7 @@
 ### Give an example of using the spread operator to combine two arrays.
 
 let arr1 = [1,2,3];
-
+<br>
 let arr2 = [4,5,6];
 
 let spArr = [...arr1,...arr2];
