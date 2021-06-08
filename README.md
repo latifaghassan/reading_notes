@@ -45,7 +45,7 @@
 | Components & Props                | [class 1](301/class01.md)  |
 | React lifecycle & State and Props | [class 2](301/class02.md)  |
 | Passing Functions as Props        | [class 3](301/class03.md)  |
-| Class 4                           | [class 4](301/class04.md)  |
+| React and Forms                   | [class 4](301/class04.md)  |
 | Class 5                           | [class 5](301/class05.md)  |
 | Class 6                           | [class 6](301/class06.md)  |
 | Class 7                           | [class 7](301/class07.md)  |
