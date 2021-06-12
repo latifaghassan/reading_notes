@@ -6,7 +6,7 @@
 
 **Here you can find all the topics I have read in each course :**
 
-## Code 102 Test drive a career in tech:
+## Code 102 | Intro to Software Development
 
 | **The Topics**                | **Links**                 |
 | ----------------------------- | ------------------------- |
@@ -18,7 +18,7 @@
 | Operators and Loops           | [class 5](102/read05.md)  |
 | Design web pages with CSS     | [class 6](102/read06.md)  |
 
-## Code 201 : Learn HTML, CSS & JavaScript:
+## Code 201 Intermediate Software Development Foundations of Software Development
 
 | The Topics                                     | Links                      |
 | ---------------------------------------------- | -------------------------- |
@@ -38,7 +38,7 @@
 | CSS Transforms, Transitions, and Animations    | [class 14](201/class14.md) |
 | What Google Learned About Teams                | [class 15](201/class15.md) |
 
-## Code 301 : Build Interactive Web Apps:
+## Code 301 | Intermediate Software Development
 
 | The Topics                        | Links                      |
 | --------------------------------- | -------------------------- |
@@ -46,7 +46,7 @@
 | React lifecycle & State and Props | [class 2](301/class02.md)  |
 | Passing Functions as Props        | [class 3](301/class03.md)  |
 | Putting it all together           | [class 4](301/class04.md)  |
-| Class 5                           | [class 5](301/class05.md)  |
+| NODE.JS                           | [class 5](301/class05.md)  |
 | Class 6                           | [class 6](301/class06.md)  |
 | Class 7                           | [class 7](301/class07.md)  |
 | Class 8                           | [class 8](301/class08.md)  |
