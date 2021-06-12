@@ -47,9 +47,9 @@
 | Components & Props                | [class 1](301/class01.md)  |
 | React lifecycle & State and Props | [class 2](301/class02.md)  |
 | Passing Functions as Props        | [class 3](301/class03.md)  |
-| Putting it all together           | [class 4](301/class04.md)  |
-| NODE.JS                           | [class 5](301/class05.md)  |
-| Class 6                           | [class 6](301/class06.md)  |
+| React and Forms                   | [class 4](301/class04.md)  |
+| Putting it all together           | [class 5](301/class05.md)  |
+| NODE.JS                           | [class 6](301/class06.md)  |
 | Class 7                           | [class 7](301/class07.md)  |
 | Class 8                           | [class 8](301/class08.md)  |
 | Class 9                           | [class 9](301/class09.md)  |
@@ -59,5 +59,3 @@
 | Class 13                          | [class 13](301/class13.md) |
 | Class 14                          | [class 14](301/class14.md) |
 | Class 15                          | [class 15](301/class15.md) |
-
-
