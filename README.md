@@ -40,6 +40,8 @@
 
 ## Code 301 : Build Interactive Web Apps:
 
+[THINGS I WANT TO KNOW : ](myNotes.md) :dart:
+
 | The Topics                        | Links                      |
 | --------------------------------- | -------------------------- |
 | Components & Props                | [class 1](301/class01.md)  |
@@ -58,4 +60,4 @@
 | Class 14                          | [class 14](301/class14.md) |
 | Class 15                          | [class 15](301/class15.md) |
 
-[My Notes ](myNotes.md)
+
