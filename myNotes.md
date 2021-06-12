@@ -1,4 +1,4 @@
-## Things I want to know more about :
+## Things I want to know more about : :dart:
 
 - React and how it works.
 - What is express.js? 
