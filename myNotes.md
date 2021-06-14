@@ -5,3 +5,5 @@
 - What is TypeScript? 
 - What is Redux? 
 - What is react hook+content?
+----------------------------------
+- What do we mean with " event-based, non-blocking, asynchronous I/O" ? 
