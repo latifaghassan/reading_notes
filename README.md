@@ -50,7 +50,7 @@
 | React and Forms                   | [class 4](301/class04.md)  |
 | Putting it all together           | [class 5](301/class05.md)  |
 | NODE.JS                           | [class 6](301/class06.md)  |
-| Class 7                           | [class 7](301/class07.md)  |
+| Rest                              | [class 7](301/class07.md)  |
 | Class 8                           | [class 8](301/class08.md)  |
 | Class 9                           | [class 9](301/class09.md)  |
 | Class 10                          | [class 10](301/class10.md) |

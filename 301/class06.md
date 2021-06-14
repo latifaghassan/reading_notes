@@ -2,7 +2,8 @@
 
 **1- What is node.js?**
 
-- Node.js is a program we can use to execute JavaScript on our computers.
+- Node.js is an event-based, non-blocking, asynchronous I/O runtime that uses Google’s V8 JavaScript engine and libuv library.
+- It is a program we can use to execute JavaScript on our computers
 
 **2- In your own words, what is Chrome’s V8 JavaScript Engine?**
 
@@ -49,8 +50,8 @@
 
 **2- In your experience, which of these reasons have you found most beneficial?**
 
-- The third one. I do learn better through pair programming.
+- Engaged collaboration. I focus more when I work with someone.
 
 **3- How does pair programming work?**
 
-- Two programmers work together at one workstation. One, the driver, writes code while the other, the observer or navigator, reviews each line of code as it is typed in.
+- One programmer acts as the driver who codes while the other will serve as the observer who will check the code being written, proofread and spell check it, while also figuring out where to go next.
