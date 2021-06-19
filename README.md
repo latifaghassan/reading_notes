@@ -54,7 +54,7 @@
 | APIs                              | [class 8](301/class08.md)  |
 | FUNCTIONAL PROGRAMMING            | [class 9](301/class09.md)  |
 | In memory storage                 | [class 10](301/class10.md) |
-| Class 11                          | [class 11](301/class11.md) |
+| Authentication                    | [class 11](301/class11.md) |
 | Class 12                          | [class 12](301/class12.md) |
 | Class 13                          | [class 13](301/class13.md) |
 | Class 14                          | [class 14](301/class14.md) |
