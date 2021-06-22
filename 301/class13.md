@@ -1,6 +1,6 @@
 # CRUD :
 
-**1- In your own words, describe what each group of status code represents:**
+**1- In your own words, describe what each group of status code represents: **
 
 - 100’s = This interim response indicates that everything so far is OK and that the client should continue the request, or ignore the response if the request is already finished.
 - 200’s = The request was fulfilled.
@@ -74,3 +74,5 @@
 (3)[https://aloneonahill.com/blog/http-status-codes]
 <br>
 (4)[https://www.moesif.com/blog/technical/api-design/Which-HTTP-Status-Code-To-Use-For-Every-CRUD-App/]
+<br>
+(5)[https://aloneonahill.com/blog/http-status-codes]
