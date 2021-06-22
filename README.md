@@ -57,7 +57,7 @@
 | Authentication                    | [class 11](301/class11.md) |
 | Mongo and Mongoose                | [class 12](301/class12.md) |
 | CRUD                              | [class 13](301/class13.md) |
+| Tech Industry                     | [class 14](301/class14.md) |
+| Class 15                          | [class 15](301/class15.md) |
 
-| Diversity & Inclusion in the Tech Industry
-| [class 14](301/class14.md) |
-| Class 15 | [class 15](301/class15.md) |
+|
